@@ -1,6 +1,6 @@
 ## **Hello! :wave::grin:**
 ---
-*:man_technologist: Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
+* :man_technologist: Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
 
 <div align="center">
   <a href="https://github.com/cauasousa">
