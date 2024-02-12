@@ -11,7 +11,7 @@
 * :man_technologist: Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
 * :nerd_face: Studying Flutter.
 * :computer: Knowledge in: C, C++, Dart, Python, HTML/CSS, JS, Flutter, MySQL, SQL, and possibly more technologies.
-* 
+
 <div align="center">
   <a href="https://github.com/cauasousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauasousa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
