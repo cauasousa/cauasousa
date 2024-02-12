@@ -1,4 +1,4 @@
-## **Hello! :grin: :wave:**
+## **Hello! :grin::wave:**
 ---
 Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
 <div align="center">
