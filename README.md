@@ -1,5 +1,6 @@
-# **Hello! 👋**
+## **Hello! :grin: :wave:**
 ---
+Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
 <div align="center">
   <a href="https://github.com/cauasousa">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=cauasousa&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
