@@ -6,7 +6,8 @@
 </div>
 
 ## **Hello! :wave::grin:**
----
+
+--
 * :man_technologist: Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
 * :nerd_face: Studying Flutter.
 * :computer: Knowledge in: C, C++, Dart, Python, HTML/CSS, JS, Flutter, MySQL, SQL, and possibly more technologies.
