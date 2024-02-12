@@ -1,3 +1,8 @@
+<div>   
+  <a href="www.linkedin.com/in/cauã-de-sousa-lima-9734a7259" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://instagram.com/c.s.l_055" target="_blank"><img src="[https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)" target="_blank"></a>
+</div>
+
 ## **Hello! :wave::grin:**
 ---
 * :man_technologist: Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
