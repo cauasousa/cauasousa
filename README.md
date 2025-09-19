@@ -5,12 +5,23 @@
   <a href="https://www.linkedin.com/in/cauã-de-sousa-lima-9734a7259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-## **Hello! :wave::grin:**
+# 👋 Hey there! I'm Cauã Sousa  
 
+🎓 **Computer Science student** at the Federal Institute of Maranhão - Caxias Campus.  
+💻 Currently diving deep into **Flutter** and mobile development.  
+🌱 Always learning and experimenting with new technologies.  
 
-* :man_technologist: Computer Science student at the Federal Institute of Maranhão - Caxias Campus.
-* :nerd_face: Studying Flutter.
-* :computer: Knowledge in: C, C++, Dart, Python, HTML/CSS, JS, Flutter, MySQL, SQL, and possibly more technologies.
+---
+
+## 🧑‍💻 About Me  
+- 🖥️ Passionate about **software development** and problem-solving.  
+- 🔭 Exploring mobile, backend, and cross-platform solutions.  
+- ⚡ Enthusiastic about building projects that make a real impact.  
+
+---
+## 📫 Let's Connect!  
+- ✉️ [Email](mailto:cauaslimas055@gmail.com)  
+---
 
 ## GitHub Analytics
 ---
