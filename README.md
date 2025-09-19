@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/cauã-de-sousa-lima-9734a7259" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
 
-# 👋 Hey there! I'm Cauã Sousa  
+# 👋 Hey there!
 
 🎓 **Computer Science student** at the Federal Institute of Maranhão - Caxias Campus.  
 💻 Currently diving deep into **Flutter** and mobile development.  
